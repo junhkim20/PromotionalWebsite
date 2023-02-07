@@ -13,12 +13,17 @@ h1 {
 	margin: 1px;
 }
 
-img {
+.headerimg {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 80%;
 	padding: 30px;
+}
+
+img {
+	padding-left: 1px;
+	width: 33%;
 }
 
 .content {
